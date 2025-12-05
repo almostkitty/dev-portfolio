@@ -1,0 +1,7 @@
+site_name: Портфолио
+site_url: https://almostkitty.github.io/dev-portfolio
+theme:
+  name: terminal
+  features:
+    - navigation.top.search_button.hide
+site_author: Herman Palchuk
