@@ -6,7 +6,7 @@
 
 Проект, который был разработан в рамках выполнения ВКР. Является сервисом, который позволяет обнаруживать использование ИИ при написании профессиональных тестов. Написан на Python, является MVP.
 
-**Ссылка на HitHub:** [https://github.com/almostkitty/llm-audit-service](https://github.com/almostkitty/llm-audit-service)
+**Ссылка на GitHub:** [https://github.com/almostkitty/llm-audit-service](https://github.com/almostkitty/llm-audit-service)
 
 ## 2. Проект ```UBot```
 
